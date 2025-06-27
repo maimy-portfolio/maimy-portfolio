@@ -9,7 +9,3 @@
 - **Frameworks**: Flutter
 - **Tools**: GitHub (used for version tracking & hosting projects), VS Code, Android Studio
 
-## 🚀 Featured Projects
-
-## 📫 Let's connect!
-[Email](mailto:your.email@example.com)
