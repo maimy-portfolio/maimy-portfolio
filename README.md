@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm My!
 
-<!--
-**maimy-portfolio/maimy-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT student at Keiser University Vietnam  
+💻 Passionate about frontend and mobile development  
+🌱 Always learning by building hands-on projects with real-world use cases
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages**: HTML, CSS, JavaScript, Dart
+- **Frameworks**: Flutter
+- **Tools**: GitHub (used for version tracking & hosting projects), VS Code, Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+## 📫 Let's connect!
+[Email](mailto:your.email@example.com)
