@@ -15,3 +15,16 @@
 A simple HTML-based student courses registration form that allows users to select courses and view course information in a summary.  
 🛠️ HTML, CSS, JavaScript
 
+### 📌 [Text-to-Speech App](https://github.com/maimy-portfolio/text-to-speech-app)
+A Flutter app that converts text to speech with real-time highlighting and history tracking.  
+🛠️ Flutter, Dart
+
+### 📌 [To-do list Web App](https://github.com/maimy-portfolio/To-do-list-web-app)
+A simple task management web application that allows users to add, complete, and delete tasks in a dynamic to-do list. 
+🛠️ HTML, CSS, JavaScript
+
+### 📌 [Weather App](https://github.com/maimy-portfolio/Weather-web-app)
+A simple weather-checking site using OpenWeatherMap API.  
+🛠️ HTML, CSS, JavaScript
+
+
