@@ -23,8 +23,11 @@ A Flutter app that converts text to speech with real-time highlighting and histo
 A simple task management web application that allows users to add, complete, and delete tasks in a dynamic to-do list. 
 🛠️ HTML, CSS, JavaScript
 
-### 📌 [Weather App](https://github.com/maimy-portfolio/Weather-web-app)
+### 📌 [Weather Web App](https://github.com/maimy-portfolio/Weather-web-app)
 A simple weather-checking site using OpenWeatherMap API.  
 🛠️ HTML, CSS, JavaScript
 
+### 📌 [Namer App](https://github.com/maimy-portfolio/namer_app)
+A simple Flutter app that generates random name suggestions. 
+🛠️ Flutter, Dart
 
