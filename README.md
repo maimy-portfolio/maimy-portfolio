@@ -31,3 +31,7 @@ A simple weather-checking site using OpenWeatherMap API.
 A simple Flutter app that generates random name suggestions. 
 🛠️ Flutter, Dart
 
+### 📌 [Space Exploration Planner App](https://github.com/maimy-portfolio/Space-exploration-planner-app)
+A to-do list application built with a space-exploration theme.
+🛠️ Flutter, Dart
+
