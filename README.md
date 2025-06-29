@@ -21,7 +21,6 @@ A Flutter app that converts text to speech with real-time highlighting and histo
 
 ### 📌 [To-do list Web App](https://github.com/maimy-portfolio/To-do-list-web-app)
 A simple task management web application that allows users to add, complete, and delete tasks in a dynamic to-do list. 
-
 🛠️ HTML, CSS, JavaScript
 
 ### 📌 [Weather Web App](https://github.com/maimy-portfolio/Weather-web-app)
