@@ -13,10 +13,12 @@
 
 ### 📌 [Student Registration Form](https://github.com/maimy-portfolio/student-registration-form)
 A simple HTML-based student courses registration form that allows users to select courses and view course information in a summary.  
+
 🛠️ HTML, CSS, JavaScript
 
 ### 📌 [Text-to-Speech App](https://github.com/maimy-portfolio/text-to-speech-app)
 A Flutter app that converts text to speech with real-time highlighting and history tracking.  
+
 🛠️ Flutter, Dart
 
 ### 📌 [To-do list Web App](https://github.com/maimy-portfolio/To-do-list-web-app)
@@ -26,13 +28,16 @@ A simple task management web application that allows users to add, complete, and
 
 ### 📌 [Weather Web App](https://github.com/maimy-portfolio/Weather-web-app)
 A simple weather-checking site using OpenWeatherMap API.  
+
 🛠️ HTML, CSS, JavaScript
 
 ### 📌 [Namer App](https://github.com/maimy-portfolio/namer_app)
 A simple Flutter app that generates random name suggestions. 
+
 🛠️ Flutter, Dart
 
 ### 📌 [Space Exploration Planner App](https://github.com/maimy-portfolio/Space-exploration-planner-app)
 A to-do list application built with a space-exploration theme.
+
 🛠️ Flutter, Dart
 
