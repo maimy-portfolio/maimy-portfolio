@@ -1,7 +1,7 @@
 # 👋 Hi, I'm My!
 
 🎓 IT student at Keiser University Vietnam  
-💻 Passionate about frontend and IOS (mobile) development  
+💻 Passionate about Frontend and IOS (mobile) development  
 🌱 Always learning by building hands-on projects with real-world use cases
 
 ## 🔧 Tech Stack
